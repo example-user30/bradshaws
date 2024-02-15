@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://example-user30.github.io/bradshaws/sitemap.xml
