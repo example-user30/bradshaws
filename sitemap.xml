@@ -1,42 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://example-user30.github.io/bradshaws/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://bradshawsbiscuits.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://example-user30.github.io/bradshaws/</loc>
+<loc>https://bradshawsbiscuits.com/</loc>
 </url>
 <url>
-<loc>https://example-user30.github.io/bradshaws/creating-great-biscuit-recipes/</loc>
+<loc>https://bradshawsbiscuits.com/creating-great-biscuit-recipes/</loc>
 <lastmod>2024-01-16T01:13:54-06:00</lastmod>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/4/patrick-fore-16Vfy9BfLio-unsplash-1.jpg</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/4/patrick-fore-16Vfy9BfLio-unsplash-1.jpg</image:loc>
 <image:title><![CDATA[Great biscuits come from great recipes]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/4/theme-photos-Hx7xdwhj2AY-unsplash.jpg</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/4/theme-photos-Hx7xdwhj2AY-unsplash.jpg</image:loc>
 <image:title><![CDATA[Bakery artists working dough ]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://example-user30.github.io/bradshaws/live-music-wednesdays/</loc>
+<loc>https://bradshawsbiscuits.com/experience-the-joy-of-homemade-biscuits-with-gravy/</loc>
+<lastmod>2024-02-21T14:13:28-06:00</lastmod>
+<image:image>
+<image:loc>https://bradshawsbiscuits.com/media/posts/8/biscuits-and-gravy.webp</image:loc>
+<image:title><![CDATA[Yummy biscuits and gravy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bradshawsbiscuits.com/live-music-wednesdays/</loc>
 <lastmod>2024-01-15T16:59:02-06:00</lastmod>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/3/rob-simmons-lWHP55X-biA-unsplash-1.jpg</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/3/rob-simmons-lWHP55X-biA-unsplash-1.jpg</image:loc>
 <image:title><![CDATA[Playing Folk Music at Bradshaw's Bargain Biscuits]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/3//stage.jpg</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/3//stage.jpg</image:loc>
 <image:title><![CDATA[Empty stage for folk art musing at Bradshaw's Bargain Biscuits]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://example-user30.github.io/bradshaws/terms-and-conditions/</loc>
+<loc>https://bradshawsbiscuits.com/terms-and-conditions/</loc>
 <lastmod>2024-01-17T16:44:38-06:00</lastmod>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/6/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/6/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg</image:loc>
 <image:title><![CDATA[Terms and Conditions ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://example-user30.github.io/bradshaws/media/posts/6/star-2.png</image:loc>
+<image:loc>https://bradshawsbiscuits.com/media/posts/6/star-2.png</image:loc>
 <image:title><![CDATA[Image of a star]]></image:title>
 </image:image>
 </url>
